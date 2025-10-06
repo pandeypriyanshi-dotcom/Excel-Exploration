@@ -19,3 +19,6 @@
 <H2>🚀Impact</H2>
 <p>The project highlights the ability to transform raw data into meaningful insight using Excel : A critical skill for roles in finance ,business
 analysis ,and data-driven decision making.</p>
+<h2>Next Steps in My </h2>
+<p>This project is Step 0 in my structured roadmap. From here, I’m building progressively advanced finance-focused dashboards. </p>
+
