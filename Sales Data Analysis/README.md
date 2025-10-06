@@ -19,6 +19,7 @@
 <H2>🚀Impact</H2>
 <p>The project highlights the ability to transform raw data into meaningful insight using Excel : A critical skill for roles in finance ,business
 analysis ,and data-driven decision making.</p>
-<h2>Next Steps in My </h2>
-<p>This project is Step 0 in my structured roadmap. From here, I’m building progressively advanced finance-focused dashboards. </p>
+<h2>📍Next Steps in My Journey</h2>
+<p>This project is Step 0 in my structured roadmap. Started my Excel-finance analytics journey with a simple sales dashboard to learn fundamentals of data cleaning, pivoting, and KPI visualization.From here, I’m building progressively advanced finance-focused dashboards.<br>Building on this, I’m now working on finance-specific dashboards (budgeting, forecasting, variance analysis)."
+ </p>
 
